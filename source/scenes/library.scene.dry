@@ -5,12 +5,12 @@ go-to: menu
 
 = The Library
 
-Herein contains relevant information about the government and politics of the German republic.
+Herein contains relevant information about the government and politics of the Hong Kong Special Administrative Region.
 
 @menu
 
-- @government: Germany's system of government
-- @weimar_timeline: Timeline of the Weimar Republic before 1928
+- @government: Hong Kong's system of government
+- @weimar_timeline: Timeline of Hong Kong before 2006
 - @curr_gov: Current government details
 - @demographics: Demographics
 - @parties: Parties
@@ -23,13 +23,13 @@ Herein contains relevant information about the government and politics of the Ge
 @government
 go-to: menu
 
-The German Republic, called by some of our detractors as the "Weimar Republic", is a parliamentary republic with a somewhat weak president and a strong parliament, called the Reichstag. The Reichstag is responsible for governing, while the President has a largely ceremonial role but also has some important governing responsibilities.
+The Hong Kong Special Administrative Region (HKSAR) has a political system which many would describe as executive-led and one with separation of powers. The government, led by the Chief Executive, is considered to be more powerful than the legislative branch, the Legislative Council (LegCo).
 
-The Reichstag is elected based on a proportional representation system, giving parties seats roughly proportional to their vote share in each electoral district. The Reichstag then elects the Chancellor and the cabinet by a majority vote, who are responsible for government. A majority vote-of-no-confidence can remove the current government.
+The LegCo is elected in two different parts, geographical constituencies and functional constituencies. The geographical constituencies are largely based on a proportional representation system, giving parties seats roughly proportional to their vote share in each electoral district. The functional constituencies are elected based on specific industrial or occupational stakeholders. Many are based on corporate votes or organisational votes. The LegCo then elects the president of the LegCo by a majority vote, who are responsible for maintaining order and ruling in the LegCo.
 
-The President is elected by a national direct vote, in two rounds. The second round is used if the first round does not result in a majority for one candidate; the candidate who receives a plurality in the second round becomes president (there is no obligation for weaker candidates to drop out). The role of the president is mostly to represent Germany, but he also has some crucial governing powers. The president and chancellor can together use emergency decrees to govern, bypassing the Reichstag. The president can also appoint or remove a chancellor when a parliamentary majority is unable to be established, and can thus influence the formation of a government.
+The Chief Executive is elected by the Election Committee. The Election Committee is composed of representatives from different industries, religious groups, professionals and politicians. The candidates are required receive a certain number of nominations. Then the Chief Executive is elected in two rounds. The second round is used if the first round does not result in a majority for one candidate, or two candidates have the same number of votes; the candidate, among the two highest voted, who receives a majority in the second round becomes the Chief Executive. The role of the Chief Executive is to lead the government. The Chief Executive has considerably more power than the LegCo.
 
-Germany is divided into a number of states, each of which have their own governments with some responsibilities. By far the largest and most important state is Prussia.
+The HKSAR is a part of the People's Republic of China, as special administrative region, under the principles of "One Country, Two Systems", "Hong Kong People Ruling Hong Kong" and "High Degree of Autonomy", as promised in the Basic Law.
 
 @weimar_timeline
 go-to: menu
